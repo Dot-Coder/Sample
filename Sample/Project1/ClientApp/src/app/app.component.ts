@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit, Inject, ChangeDetectorRef, AfterViewChecked } from '@angular/core';
 
 @Component({
   selector: 'app-root',
